@@ -1,0 +1,5 @@
+""""
+Fichier indispensable
+"""
+
+indispensable = True
