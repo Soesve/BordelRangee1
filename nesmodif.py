@@ -10,3 +10,5 @@ def oma ():
     x = 0
     b = x 
     return
+
+c = "Bonjour Nesrine !"
