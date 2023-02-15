@@ -1,5 +1,7 @@
 a=int(input("Entrer votre prénom: "))
 
+b = "Trop tard Oma !"
+
 "hello la team .)"
 
 def oma ():
