@@ -1,9 +1,9 @@
-    """
+"""
     Liste des fonctions pour les champs de formulaire
     Author : Jeremy
     Date : 16/02/2023
     Version : 0.1
-    """
+"""
 
 def inputInt(texte = "Veuillez entrer un nombre entier : ") -> int:
     """ On demande un nombre à l'utilisateur, et on vérifie que c'est bien un entier. Si non, on continue de demander un nombre à l'utilisateur.
