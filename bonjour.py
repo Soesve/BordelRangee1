@@ -1,3 +1,5 @@
+import fonctions
+
 b = "Hello"
 m = "World !"
 hw = b + " " + m
@@ -9,9 +11,9 @@ c = a + b
 
 # Nouvelle modif Jeremy
 
-# Je modifie un fichier existant
-
+# Variables du formulaire avec les input
 nom = input("Quel est votre nom ? ")
-age = input("Quelle est votre age ? ")
+prenom = input("Quel est votre prenom ? ")
+age = fonctions.inputInt("Quelle est votre age ? ")
 
-print(f"Bonjour {nom} !")
+print(f"Bonjour {prénom} !")
