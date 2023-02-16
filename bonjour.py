@@ -11,4 +11,7 @@ c = a + b
 
 # Je modifie un fichier existant
 
-age = input("Quelle est votre age ?")
+nom = input("Quel est votre nom ? ")
+age = input("Quelle est votre age ? ")
+
+print(f"Bonjour {nom} !")
