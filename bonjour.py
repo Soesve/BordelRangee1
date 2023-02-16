@@ -5,7 +5,7 @@ nom = input("Quel est votre nom ? ")
 prenom = input("Quel est votre prenom ? ")
 age = fonctions.inputInt("Quelle est votre age ? ")
 
-print(f"Bonjour {prénom} !")
+print(f"Bonjour {prenom} !")
 
 a = 5
 b = 2
