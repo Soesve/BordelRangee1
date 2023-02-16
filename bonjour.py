@@ -10,3 +10,5 @@ c = a + b
 # Nouvelle modif Jeremy
 
 # Je modifie un fichier existant
+
+age = input("Quelle est votre age ?")
